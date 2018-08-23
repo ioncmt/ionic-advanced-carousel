@@ -16,7 +16,7 @@
     "carousel",
     "directive"
   ],
-  "homepage": "https://github.com/sebelga/ionic-advanced-carousel",
+  "homepage": "https://github.com/ioncmt/ionic-advanced-carousel.git",
   "moduleType": ["angularjs"],
   "ignore": [
     "**/.*",

@@ -33,3 +33,4 @@ lib/
 
 #private file
 .npmrc
+.bowerrc
