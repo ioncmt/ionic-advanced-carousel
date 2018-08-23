@@ -30,3 +30,6 @@ node_modules/
 bower_components/
 lib/
 .build/
+
+#private file
+.npmrc
